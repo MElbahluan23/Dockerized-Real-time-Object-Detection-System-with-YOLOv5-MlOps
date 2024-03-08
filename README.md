@@ -51,6 +51,6 @@ MlOps
 ```
 
 - **inference**: Contains files related to the inference Flask container.
-- **rtsp**: Contains files related to the RTSP streaming container.
+- **rtsp**: Contains files related to the RTSP streaming Flask container.
 - **docker-compose.yml**: Defines the Docker services and their configurations.
 - **script.py**: Python script to send requests to the inference container.
