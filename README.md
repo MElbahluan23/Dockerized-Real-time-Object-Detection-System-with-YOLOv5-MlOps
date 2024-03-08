@@ -1,6 +1,6 @@
 # RTSP-YOLO-Inference-MLOps
 
-This project implements a solution for real-time object detection using an RTSP stream and YOLOv5 model inference. It consists of two containers: one for streaming the video as an RTSP stream and another for performing inference using YOLOv5 and Flask.
+This project implements a solution for real-time object detection using an RTSP stream and YOLOv5 model inference. It consists of two containers: one for streaming the video as an RTSP stream using Flask and another for performing inference using YOLOv5 and Flask.
 
 ## Setup and Installation
 
